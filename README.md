@@ -8,4 +8,4 @@
 
 ### 这是通往本萌新一些网站的传送门
 
-<a herf="/site/index.html">draft 1</a>
+<a herf="site/index.html">draft 1</a>
