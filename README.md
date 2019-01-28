@@ -9,6 +9,6 @@
 ### 这是通往本萌新一些站点的传送门
 
 <ul>
-  <li><a href="site/index.html">draft 1</a></li>
-  <li><a href="site/doc-structure-before.html">draft 2</a></li>
+  <li><a href="site/index.html" target="_blank">draft 1</a></li>
+  <li><a href="site/doc-structure-before.html" target="_blank">draft 2</a></li>
  </ul>
