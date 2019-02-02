@@ -11,4 +11,5 @@
 <ul>
   <li><a href="site/index.html" target="_blank">draft 1</a></li>
   <li><a href="site/doc-structure-before.html" target="_blank">draft 2</a></li>
+  <li><a href="site/text.html" target="_blank">draft3</a></li>
  </ul>
