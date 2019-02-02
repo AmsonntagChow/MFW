@@ -2,6 +2,12 @@ body{
 	font-family: arial,verdana;
 	background-color: rgb(185,179,175);
 }
+p:hover{
+	color: deeppink;
+}
 h1{
 	color: rgb(255,255,255);
+}
+a:active{
+	background-color: chocolate;
 }
