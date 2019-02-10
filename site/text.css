@@ -27,3 +27,12 @@ p{
 	-webkit-box-shadow: 5px 5px 5px #777777;
 	box-shadow: 5px 5px 5px #777777;
 }
+p.two{
+	border: 5px solid #ee3e80;
+	padding: 20px;
+	width: 275px;
+	border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	margin: 10px auto 10px auto;
+}
