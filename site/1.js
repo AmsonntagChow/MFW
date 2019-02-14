@@ -21,4 +21,9 @@ elRooms.textContent = hotel.
 checkAvailability();
 
 window.alert("23333")
+window.alert("ktynb")
+window.alert("ktynb")
+window.alert("ktynb")
+window.alert("ktynb")
+window.alert("ktynb")
 window.open("http://baidu.com")
