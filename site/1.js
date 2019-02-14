@@ -19,3 +19,6 @@ elNote.textContent = message;
 var elRooms = document.getElementById('rooms')
 elRooms.textContent = hotel.
 checkAvailability();
+
+window.alert("23333")
+window.open("http://baidu.com")
