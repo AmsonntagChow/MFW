@@ -1,5 +1,6 @@
 var username;
 var message;
+var today = new Date();
 var hotel = {
 	name: 'Quay',
 	rooms: 40,
@@ -19,7 +20,8 @@ elNote.textContent = message;
 var elRooms = document.getElementById('rooms')
 elRooms.textContent = hotel.
 checkAvailability();
-
+var elTime = document.getElementById('time');
+elTime.textContent = today;
 window.alert("23333")
 window.alert("ktynb")
 window.alert("ktynb")
